@@ -20,7 +20,7 @@ img {
 }
 .photo {
   width: 50%;
-  margin-left: 5%;
+  margin-left: 10%;
   margin-top: 2%;
   text-align: center;
   color: white;
@@ -31,6 +31,14 @@ img {
   margin-top: 2%;
   text-align: center;
   color: white;
+}
+.links {
+  width: auto;
+  margin-top: 25%;
+  color: white;
+}
+.photo1 {
+  text-align: center;
 }
 h1 {
   text-transform: uppercase;
